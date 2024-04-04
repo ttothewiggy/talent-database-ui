@@ -4,8 +4,9 @@ const candidateSchema = new Schema(
     {
         name: String, 
         title: String
-    }, {
-        timestamps, true,
+    }, 
+    {
+        timestamps: true,
     }
 )
 
