@@ -4,9 +4,7 @@ export default function Home() {
   return (
     <>
     <CandidatesList />
-    <CandidatesList />
-    <CandidatesList />
-    <CandidatesList />
+    
     </>
   );
 }
